@@ -139,7 +139,7 @@ curl --location 'http://localhost:9000/api/is-delinquent' \
 }
 ```
 
-### 2. **Make Payment**
+### 3. **Make Payment**
 
 - **Path**: `/payment`
 - **Method**: `POST`
